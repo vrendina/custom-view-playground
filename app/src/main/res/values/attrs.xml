@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CaretLineSeparator">
+        <attr name="clsLineThickness" format="dimension" />
+        <attr name="clsLineColor" format="color" />
+        <attr name="clsCaretAngle" format="integer" />
+        <attr name="clsPeakPercentage" format="float" />
+        <attr name="clsPeakOffset" format="dimension" />
+    </declare-styleable>
+</resources>
